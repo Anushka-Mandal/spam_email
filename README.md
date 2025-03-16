@@ -88,13 +88,13 @@ Here is an example of how to classify an email:
       print("This is a Spam mail.")
 ```
 
-### ***Dataset
+### Dataset
 The project uses a dataset mail_data.csv which contains the following columns:
 
 Category: Label indicating whether the email is 'spam' (0) or 'ham' (1).
 Message: The email text content.
 
-#### ****Evaluation Metrics
+#### Evaluation Metrics
 After training the model, its accuracy on both the training and test datasets is evaluated:
 ```
 Accuracy on training data: 0.98

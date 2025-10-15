@@ -30,7 +30,7 @@ The model is built using Python and popular machine learning libraries such as *
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/spam-classification.git
+    git clone https://github.com/Anushka-Mandal/spam_email
     ```
 
 2. Navigate to the project directory:
